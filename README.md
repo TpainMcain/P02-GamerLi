@@ -3,7 +3,7 @@
 
 ## Description
 
-Continuation of https://github.com/GameW1zard/GamerLi. This is a full stack application that allows users to create an account and log in to a personalized dashboard. The dashboard will allow users to add/delete games to their collection, view their collection, and view their collection statistics. 
+Personal continuation of https://github.com/GameW1zard/GamerLi. This is a full stack application that allows users to create an account and log in to a personalized dashboard. The dashboard will allow users to add/delete games to their collection, view their collection, and view their collection statistics. 
 ## Table of Contents
 
 - [Installation](#installation)
